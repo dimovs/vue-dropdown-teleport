@@ -1,0 +1,22 @@
+{
+  "name": "vue-dropdown-teleport",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimovs/vue-dropdown-teleport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimovs/vue-dropdown-teleport/issues"
+  },
+  "homepage": "https://github.com/dimovs/vue-dropdown-teleport#readme",
+  "dependencies": {
+    "vue": "^3.2.21"
+  }
+}
